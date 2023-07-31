@@ -1,1 +1,1 @@
-frontend interaction with blockchain using metamask wallet
+Frontend interaction with blockchain using metamask wallet and fetching information
